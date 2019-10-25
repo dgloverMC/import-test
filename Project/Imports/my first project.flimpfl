@@ -23,62 +23,62 @@
   <ExcludedFiles />
   <CollectedSourceFiles>
     <Url
-      Source="../../Flare Training/my first project/Content/B-Feature-Topics/Feature1.htm"
+      Source="../../../../Flare Training/my first project/Content/B-Feature-Topics/Feature1.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/B-Feature-Topics/Feature1.htm" />
   </CollectedSourceFiles>
   <SkippedSourceFiles>
     <Url
-      Source="../../Flare Training/my first project/Content/Home.htm"
+      Source="../../../../Flare Training/my first project/Content/Home.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/Home.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/horse.htm"
+      Source="../../../../Flare Training/my first project/Content/horse.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/horse.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/MyFamily.htm"
+      Source="../../../../Flare Training/my first project/Content/MyFamily.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/MyFamily.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/A-Introduction-Topics/Getting-Started.htm"
+      Source="../../../../Flare Training/my first project/Content/A-Introduction-Topics/Getting-Started.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/A-Introduction-Topics/Getting-Started.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/A-Introduction-Topics/More-Information.htm"
+      Source="../../../../Flare Training/my first project/Content/A-Introduction-Topics/More-Information.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/A-Introduction-Topics/More-Information.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/A-Introduction-Topics/Whats-New.htm"
+      Source="../../../../Flare Training/my first project/Content/A-Introduction-Topics/Whats-New.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/A-Introduction-Topics/Whats-New.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/B-Feature-Topics/Feature2.htm"
+      Source="../../../../Flare Training/my first project/Content/B-Feature-Topics/Feature2.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/B-Feature-Topics/Feature2.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/B-Feature-Topics/Feature3.htm"
+      Source="../../../../Flare Training/my first project/Content/B-Feature-Topics/Feature3.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/B-Feature-Topics/Feature3.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/B-Feature-Topics/Features.htm"
+      Source="../../../../Flare Training/my first project/Content/B-Feature-Topics/Features.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/B-Feature-Topics/Features.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/C-Procedure-Topics/Procedure1.htm"
+      Source="../../../../Flare Training/my first project/Content/C-Procedure-Topics/Procedure1.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/C-Procedure-Topics/Procedure1.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/C-Procedure-Topics/Procedure2.htm"
+      Source="../../../../Flare Training/my first project/Content/C-Procedure-Topics/Procedure2.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/C-Procedure-Topics/Procedure2.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/C-Procedure-Topics/Procedure3.htm"
+      Source="../../../../Flare Training/my first project/Content/C-Procedure-Topics/Procedure3.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/C-Procedure-Topics/Procedure3.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/C-Procedure-Topics/Procedures.htm"
+      Source="../../../../Flare Training/my first project/Content/C-Procedure-Topics/Procedures.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/C-Procedure-Topics/Procedures.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/D-Reference/Company.htm"
+      Source="../../../../Flare Training/my first project/Content/D-Reference/Company.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/D-Reference/Company.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/D-Reference/FAQs.htm"
+      Source="../../../../Flare Training/my first project/Content/D-Reference/FAQs.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/D-Reference/FAQs.htm" />
     <Url
-      Source="../../Flare Training/my first project/Content/D-Reference/Tips.htm"
+      Source="../../../../Flare Training/my first project/Content/D-Reference/Tips.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/Flare Training/my first project/Content/D-Reference/Tips.htm" />
   </SkippedSourceFiles>
   <GeneratedFiles>
     <Url
-      Source="Content/B-Feature-Topics/Feature1.htm"
+      Source="../../Content/B-Feature-Topics/Feature1.htm"
       TimeStamp="5/1/2019 6:35:42 PM" />
   </GeneratedFiles>
 </CatapultProject>
